@@ -1,0 +1,11 @@
+{
+  "name": "Phone Genius",
+  "short_name": "PhoneGenius",
+  "description": "Assistant local de diagnostic Android",
+  "lang": "fr",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b0f17",
+  "theme_color": "#0b0f17",
+  "icons": [{ "src": "/favicon.ico", "sizes": "48x48", "type": "image/x-icon" }]
+}

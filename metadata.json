@@ -1,0 +1,6 @@
+{
+  "name": "Phone Genius",
+  "description": "Assistant de diagnostic, maintenance et optimisation pour smartphone",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Phone outline centered in 66dp zone (from 21,21 to 87,87) -->
+    <path
+        android:fillColor="#4361EE"
+        android:pathData="M38,24 C34.7,24 32,26.7 32,30 L32,78 C32,81.3 34.7,84 38,84 L70,84 C73.3,84 76,81.3 76,78 L76,30 C76,26.7 73.3,24 70,24 Z M54,28 C55.1,28 56,28.9 56,30 C56,31.1 55.1,32 54,32 C52.9,32 52,31.1 52,30 C52,28.9 52.9,28 54,28 Z M72,74 L36,74 L36,36 L72,36 Z M54,76 C55.7,76 57,77.3 57,79 C57,80.7 55.7,82 54,82 C52.3,82 51,80.7 51,79 C51,77.3 52.3,76 54,76 Z" />
+    <!-- Pulse activity line inside screen in neon cyan -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#4CC9F0"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M40,55 L45,55 L48,47 L53,63 L57,51 L61,58 L68,58" />
+</vector>

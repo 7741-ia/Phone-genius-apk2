@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Phone Genius</string>
+    <string name="nav_dashboard">Tableau</string>
+    <string name="nav_diagnostic">Diagnostic</string>
+    <string name="nav_voice">Voix</string>
+    <string name="nav_alerts">Alertes</string>
+    <string name="nav_care">Entretien</string>
+    <string name="nav_settings">Réglages</string>
+</resources>

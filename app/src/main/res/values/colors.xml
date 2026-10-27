@@ -1,0 +1,8 @@
+<resources>
+    <color name="bg_dark">#121624</color>
+    <color name="primary_electric">#4361EE</color>
+    <color name="accent_cyan">#4CC9F0</color>
+    <color name="critical_red">#F72585</color>
+    <color name="warning_amber">#F8961E</color>
+    <color name="success_green">#4BB543</color>
+</resources>
